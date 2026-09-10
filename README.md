@@ -13,7 +13,7 @@ DISKUSI DAN REFLEKSI
 
 1. Apa yang terjadi jika dua anggota mengubah baris kode yang sama pada file yang sama? (merge
 conflict)
-Jawaban:
+Jawaban: Jika ada ada dua anggota yg mengubah baris kode pada file yg sama, maka akan terjadi konflik yg harus di-resolve saat melakukan Pull Request.
 
 2. Mengapa penggunaan branch terpisah untuk setiap anggota penting dalam kerja tim?
 Jawaban: agar setiap anggota dapat mengerjakan tugas masing-masing tanpa mengganggu kode yang ada di main. Dengan demikian, konflik dapat berkurang sehingga pekerjaan lebih aman.
