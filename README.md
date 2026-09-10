@@ -19,4 +19,4 @@ Jawaban: Jika ada ada dua anggota yg mengubah baris kode pada file yg sama, maka
 Jawaban: agar setiap anggota dapat mengerjakan tugas masing-masing tanpa mengganggu kode yang ada di main. Dengan demikian, konflik dapat berkurang sehingga pekerjaan lebih aman.
 
 3. Apa manfaat fitur Pull Request dibandingkan langsung melakukan push ke branch main?
-Jawwaban:
+Jawaban: Untuk meninjau kode perubahan oleh anggota tim sebelum masuk ke branch main. Sehingga anggota tim dapat memberikan komentar, menemukan kesalahan, dan memastikan kode sudah sesuai.
