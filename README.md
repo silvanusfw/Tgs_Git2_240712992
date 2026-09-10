@@ -19,4 +19,4 @@ Jawaban:
 Jawaban:
 
 3. Apa manfaat fitur Pull Request dibandingkan langsung melakukan push ke branch main?
-Jawwaban:
+Jawaban: Untuk meninjau kode perubahan oleh anggota tim sebelum masuk ke branch main. Sehingga anggota tim dapat memberikan komentar, menemukan kesalahan, dan memastikan kode sudah sesuai.
