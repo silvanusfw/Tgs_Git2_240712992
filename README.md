@@ -16,7 +16,7 @@ conflict)
 Jawaban:
 
 2. Mengapa penggunaan branch terpisah untuk setiap anggota penting dalam kerja tim?
-Jawaban:
+Jawaban: agar setiap anggota dapat mengerjakan tugas masing-masing tanpa mengganggu kode yang ada di main. Dengan demikian, konflik dapat berkurang sehingga pekerjaan lebih aman.
 
 3. Apa manfaat fitur Pull Request dibandingkan langsung melakukan push ke branch main?
 Jawwaban:
